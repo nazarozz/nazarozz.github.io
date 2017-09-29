@@ -1,0 +1,43 @@
+ h1{
+ 	text-align: center;
+ 	text-transform: uppercase;
+ 	color: #d96d63;
+ 	border: solid 2px #8bccce;
+ }
+
+ p {
+ 	text-align: justify;
+ 	color: #566a5f;
+ }
+
+.title{
+text-align: center;
+color: #537b08;
+ }
+
+.classification {
+	border: 3px solid #d96d63;
+	background-color: #f0d39b;
+	width: 1200px;
+}
+
+.italic {
+	font-style: italic;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.underline {
+	text-decoration: underline;
+}
+
+body {
+	background-color: #f6f0d6;
+}
+
+a {
+	color: black;
+	text-transform: uppercase;
+}
