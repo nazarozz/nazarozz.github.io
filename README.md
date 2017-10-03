@@ -11,3 +11,4 @@
 [Урок 10](nazarozz.github.io/lesson_10/src/) - Препроцессор LESS.  
 [Урок 12](nazarozz.github.io/lesson_12/) - Хостинг от GitHub.  
 [Урок 13](nazarozz.github.io/lesson_13/src/) - Верстка Pixel Perfect.
+[Практика. Часть 1](nazarozz.github.io/lesson_14/src/) - Верстка шапки сайта.
