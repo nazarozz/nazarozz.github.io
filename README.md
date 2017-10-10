@@ -17,5 +17,6 @@
 [Урок 15](nazarozz.github.io/lesson_15/) - Псевдоклассы и псевдоэлементы.  
 [Практика. Часть 3](nazarozz.github.io/practice_3/) - Эффекты при наведении и адаптив первого экрана.  
 [Урок 16](nazarozz.github.io/lesson_16/src/) - Слайдер на сайте.  
-[Практика. Часть 4](nazarozz.github.io/practice_4/src/)  - Верстка блока с преимуществами. Слайдер.  
-[Практика. Часть 5](nazarozz.github.io/practice_5/src/)  - Верстка всплывающих окон на сайте.  
+[Практика. Часть 4](nazarozz.github.io/practice_4/src/)  - Верстка блока с преимуществами. Слайдер. 
+[Урок 17](nazarozz.github.io/lesson_17/) - Всплывающие окна.  
+[Практика. Часть 5](nazarozz.github.io/practice_5/src/)  - Верстка всплывающих окон на сайте.   
