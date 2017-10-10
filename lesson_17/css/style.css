@@ -1,0 +1,24 @@
+.modal-header {
+  border-bottom: 1px solid #281929;
+  background-color: #382b37;
+  color: #fff;
+}
+.modal-header .close {
+  color: #fff;
+}
+.modal-body {
+  background-color: #372439;
+  color: #f3ebf3;
+}
+.modal-footer {
+  border-top: 1px solid #281929;
+  background-color: #2f1d31;
+}
+.modal-footer .btn-yes {
+  background-color: #75a95b;
+  text-transform: uppercase;
+}
+.modal-footer .btn-no {
+  background-color: #ce5050;
+  text-transform: uppercase;
+}
