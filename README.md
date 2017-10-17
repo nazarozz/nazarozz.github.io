@@ -22,6 +22,8 @@
 [Практика. Часть 5](nazarozz.github.io/practice_5/src/)  - Верстка всплывающих окон на сайте.   
 [Практика. Часть 6](nazarozz.github.io/practice_6/src/)  - Верстка блока с ценами.  
 [Практика. Часть 7](nazarozz.github.io/practice_7/src/)  - Верстка блока с отзывами.  
+[Урок 20](nazarozz.github.io/lesson_20/) - Видео-фон на сайте.  
 [Практика. Часть 8](nazarozz.github.io/practice_8/src/)  - Доверстали блок с отзывами.  
+[Урок 21](nazarozz.github.io/lesson_21/) - Parallax эффект для сайта.  
 [Практика. Часть 9](nazarozz.github.io/practice_9/src/)  - Верстаем схему работы и все включено.  
 [Практика. Часть 10](nazarozz.github.io/practice_10/src/)  - Блок "Развеиваем сомнения".  
